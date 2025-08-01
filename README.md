@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m passionate about building **VoIP & Contact C
 
 📖 **Blogging & Knowledge Sharing**  
 - Read blogs and share insights  
-<img width="1763" height="935" alt="image" src="https://github.com/user-attachments/assets/0459f4a7-533c-4185-bff1-e7ad83c6406f" />
+<img width="1754" height="928" alt="image" src="https://github.com/user-attachments/assets/cba29d0d-ad28-4340-bd33-a7148da58b7b" />
 
 ☎️ **Free Calls with WebRTC & SIP.js**  
 - Make free calls via WebRTC & SIP.js, powered by VoIP  
@@ -45,6 +45,9 @@ Welcome to my GitHub profile! I’m passionate about building **VoIP & Contact C
 <img width="1886" height="794" alt="image" src="https://github.com/user-attachments/assets/2985ef9f-e277-49eb-85f9-ffd98c086aac" />
 
 - Node Exporter: RAM, CPU, Disk, Traffic
+<img width="1892" height="787" alt="image" src="https://github.com/user-attachments/assets/9dcf477d-4fe8-4e59-893b-f30fd8fb44f9" />
+
+- Docker monitor:
  <img width="1894" height="768" alt="image" src="https://github.com/user-attachments/assets/41b526ce-22f0-4925-822f-f0e5aa99d8ff" />
  
 - Alert Manager: Telegram, Webex, Mail  
