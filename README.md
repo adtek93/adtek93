@@ -1,31 +1,35 @@
 ## Hi there 👋
 
 Hello, I'm **adtek**.  
-Welcome to my GitHub profile! I’m passionate about building **VoIP & Contact Center solutions**, sharing knowledge, and exploring new technologies.  
+Welcome to my GitHub profile! I’m passionate about building **VoIP & Contact Center solutions**, sharing knowledge, exploring new technologies, and developing modern applications.  
 
 📖 **Blogging & Knowledge Sharing**  
-- Read blogs and share insights  
-<img width="1754" height="928" alt="image" src="https://github.com/user-attachments/assets/cba29d0d-ad28-4340-bd33-a7148da58b7b" />
+- Read logs and share insights  
+<img width="1659" height="645" alt="image" src="https://github.com/user-attachments/assets/83b0533e-4795-4c2e-8d78-4b90fb81f7f6" />
 
-☎️ **Free Calls with WebRTC & SIP.js**  
-- Make free calls via WebRTC & SIP.js, powered by VoIP  
+☎️ **WebRTC & Modern Telephony Solutions**  
+- Make free calls via WebRTC & SIP.js, powered by robust VoIP solutions.  
+- **SIP Chrome Extensions:** Developing production-ready webphone extensions featuring SIP auto-reconnection, ICE/TURN optimizations, and seamless data management. 
+<img width="1829" height="833" alt="image" src="https://github.com/user-attachments/assets/58d6021c-3ac5-4d7d-8ebb-eb597ae97727" />
 
-🎵 **Entertainment**  
-- Enjoy blogs and streaming music
-  
-<img width="1737" height="932" alt="image" src="https://github.com/user-attachments/assets/62945faf-de3c-4b41-8aca-38e02d0834be" />
+🎵 **Entertainment & Front-end Development**  
+- Enjoy blogs, streaming music, and building dynamic interactive web applications (like custom Music Players).  
+<img width="1897" height="973" alt="image" src="https://github.com/user-attachments/assets/0f5c5d1e-d2c6-4c1e-b23f-6b51bbd99f06" />
 
 ---
 
-## 🚀 Contact Center & VoIP Solutions  
-- Build Contact Center systems: cloud / hosted / on-premise  
+## 🚀 Contact Center, VoIP & Backend Solutions  
+- Build Contact Center systems: cloud / hosted / on-premise.  
+- Develop **RESTful APIs** (PHP) for advanced VoIP platforms like FusionPBX (CDR, Call Recording & Event Management).
+<img width="815" height="542" alt="image" src="https://github.com/user-attachments/assets/b6438285-c586-4c4f-beb1-78d22263d494" />
 
 **🛠️ Platforms:**  
-- Open Source: Asterisk, FreePBX, MikoPBX  
+- Open Source: Asterisk, FreePBX, FusionPBX, MikoPBX  
 - Cisco Collaboration (CUCM, UCCX, CUBE, …)  
 
-**⚙️ High Availability:**  
+**⚙️ High Availability & Automation:**  
 - VIP, Lsync, Ansible, …  
+- **Deployment Automation:** Streamlining backend rollouts on Linux via Bash scripts, Nginx proxy configuration, and automated DB migrations.
 
 **📞 Features:**  
 - Hotline in/out, IVR, Queue, Reports, Recording, Transfer, Forward  
@@ -42,7 +46,7 @@ Welcome to my GitHub profile! I’m passionate about building **VoIP & Contact C
 ## 📊 Monitoring & Observability  
 - Grafana, Prometheus  
 - Asterisk Exporter: calls, trunks, resources
-<img width="1886" height="794" alt="image" src="https://github.com/user-attachments/assets/2985ef9f-e277-49eb-85f9-ffd98c086aac" />
+<img width="1902" height="815" alt="image" src="https://github.com/user-attachments/assets/5b4406f1-69f1-4dc1-95c0-4b857c53bb96" />
 
 - Node Exporter: RAM, CPU, Disk, Traffic
 <img width="1892" height="787" alt="image" src="https://github.com/user-attachments/assets/9dcf477d-4fe8-4e59-893b-f30fd8fb44f9" />
@@ -73,4 +77,4 @@ Welcome to my GitHub profile! I’m passionate about building **VoIP & Contact C
 
 ---
 
-✨ *Always learning, building, and sharing in VoIP & DevOps.*  
+✨ *Always learning, building, and sharing in VoIP, Full-stack App Development & DevOps.*  
