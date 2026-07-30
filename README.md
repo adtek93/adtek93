@@ -12,10 +12,6 @@ Welcome to my GitHub profile! I’m passionate about building **VoIP & Contact C
 - **SIP Chrome Extensions:** Developing production-ready webphone extensions featuring SIP auto-reconnection, ICE/TURN optimizations, and seamless data management. 
 <img width="1829" height="833" alt="image" src="https://github.com/user-attachments/assets/58d6021c-3ac5-4d7d-8ebb-eb597ae97727" />
 
-🎵 **Entertainment & Front-end Development**  
-- Enjoy blogs, streaming music, and building dynamic interactive web applications (like custom Music Players).  
-<img width="1897" height="973" alt="image" src="https://github.com/user-attachments/assets/0f5c5d1e-d2c6-4c1e-b23f-6b51bbd99f06" />
-
 ---
 
 ## 🚀 Contact Center, VoIP & Backend Solutions  
