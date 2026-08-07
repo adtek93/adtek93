@@ -75,11 +75,10 @@ Asterisk Exporter
 
 ---
 
-# 📖 Blog & Knowledge Sharing
+# 📖 Blog & Knowledge Sharing: 
 
 I enjoy documenting deployment experiences, troubleshooting stories and sharing real-world VoIP solutions.
-
-<img width="1659" height="645" alt="image" src="https://github.com/user-attachments/assets/83b0533e-4795-4c2e-8d78-4b90fb81f7f6" />
+https://adtek.io.vn
 
 ---
 
@@ -90,9 +89,9 @@ I enjoy documenting deployment experiences, troubleshooting stories and sharing 
 * Chrome SIP Extension
 * SIP auto reconnect
 * ICE / TURN optimization
-* Browser contact center
+* Browser contact center:
 
-<img width="1829" height="833" alt="image" src="https://github.com/user-attachments/assets/58d6021c-3ac5-4d7d-8ebb-eb597ae97727" />
+https://chromewebstore.google.com/detail/mceoigicfhooecaeoalmgkmkkfanncpn?utm_source=item-share-cb
 
 ---
 
@@ -120,8 +119,6 @@ I enjoy documenting deployment experiences, troubleshooting stories and sharing 
 * Balance inquiry
 * Self-service IVR
 * Debt collection automation
-
-<img width="815" height="542" alt="image" src="https://github.com/user-attachments/assets/b6438285-c586-4c4f-beb1-78d22263d494" />
 
 ---
 
@@ -175,13 +172,14 @@ Telephony & External Systems
 
 ### 🌐 All-in-One Management Platform
 
-🔗 https://www.adtek.io.vn/omnihub-nen-tang-quan-tri-da-nang-all-in-one/
-
 OmniHub centralizes communication, operations and business workflows into a single workspace.
+https://omnihub.adtek.io.vn
 
 ### 📱 Platforms
 
 * 🌐 Web Application
+<img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/c7a2a124-baea-43be-b717-e7bc84dd9409" />
+
 * 🧩 Chrome Extension
 
 ### 🤖 AI Assistant
@@ -230,7 +228,8 @@ OmniHub Platform
 * CPU / RAM
 * Recordings
 
-<img width="1902" height="815" alt="image" src="https://github.com/user-attachments/assets/5b4406f1-69f1-4dc1-95c0-4b857c53bb96" />
+<img width="1666" height="812" alt="image" src="https://github.com/user-attachments/assets/334c3112-21b1-4de3-ab12-bf2d6d124b29" />
+<img width="1385" height="776" alt="image" src="https://github.com/user-attachments/assets/2192995e-284d-4d61-a8dc-3dbbc8bb8771" />
 
 ---
 
